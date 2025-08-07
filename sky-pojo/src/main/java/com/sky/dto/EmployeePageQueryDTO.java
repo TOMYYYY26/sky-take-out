@@ -1,8 +1,6 @@
 package com.sky.dto;
 
-impor/**
- * wcy到此一游
- */t lombok.Data;
+import lombok.Data;
 
 import java.io.Serializable;
 
