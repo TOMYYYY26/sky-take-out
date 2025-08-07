@@ -1,8 +1,10 @@
 **/target/
 .idea
 *.iml
-*.yaml
-*.yml
 *.class
 *Test.java
 **/test/
+
+# 忽略所有 YAML 文件
+*.yaml
+*.yml
