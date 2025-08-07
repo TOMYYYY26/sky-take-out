@@ -1,5 +1,7 @@
 package com.sky.constant;
-
+/**
+ * wcy到此一游
+ */
 public class JwtClaimsConstant {
 
     public static final String EMP_ID = "empId";

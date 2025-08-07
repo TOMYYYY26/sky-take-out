@@ -1,5 +1,7 @@
 package com.sky.dto;
-
+/**
+ * wcy到此一游
+ */
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

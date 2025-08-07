@@ -1,5 +1,7 @@
 package com.sky.constant;
-
+/**
+ * wcy到此一游
+ */
 /**
  * 状态常量，启用或者禁用
  */

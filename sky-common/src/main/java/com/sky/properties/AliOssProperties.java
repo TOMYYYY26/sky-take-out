@@ -1,5 +1,7 @@
 package com.sky.properties;
-
+/**
+ * wcy到此一游
+ */
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
