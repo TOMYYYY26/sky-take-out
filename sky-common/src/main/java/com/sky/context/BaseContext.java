@@ -1,5 +1,7 @@
 package com.sky.context;
-
+/**
+ * wcy到此一游
+ */
 public class BaseContext {
 
     public static ThreadLocal<Long> threadLocal = new ThreadLocal<>();

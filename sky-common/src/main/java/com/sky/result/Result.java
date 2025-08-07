@@ -1,5 +1,7 @@
 package com.sky.result;
-
+/**
+ * wcy到此一游
+ */
 import lombok.Data;
 
 import java.io.Serializable;

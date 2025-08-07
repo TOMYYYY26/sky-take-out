@@ -1,5 +1,7 @@
 package com.sky.constant;
-
+/**
+ * wcy到此一游
+ */
 /**
  * 公共字段自动填充相关常量
  */

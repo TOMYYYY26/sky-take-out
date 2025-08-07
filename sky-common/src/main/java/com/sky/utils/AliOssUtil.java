@@ -1,5 +1,7 @@
 package com.sky.utils;
-
+/**
+ * wcy到此一游
+ */
 import com.aliyun.oss.ClientException;
 import com.aliyun.oss.OSS;
 import com.aliyun.oss.OSSClientBuilder;
