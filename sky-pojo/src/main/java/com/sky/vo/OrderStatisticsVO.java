@@ -2,7 +2,9 @@ package com.sky.vo;
 
 import lombok.Data;
 import java.io.Serializable;
-
+/**
+ * wcy到此一游
+ */
 @Data
 public class OrderStatisticsVO implements Serializable {
     //待接单数量

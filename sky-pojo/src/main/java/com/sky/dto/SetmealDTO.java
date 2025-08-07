@@ -1,5 +1,7 @@
 package com.sky.dto;
-
+/**
+ * wcy到此一游
+ */
 import com.sky.entity.SetmealDish;
 import lombok.Data;
 import java.io.Serializable;

@@ -1,5 +1,7 @@
 package com.sky.utils;
-
+/**
+ * wcy到此一游
+ */
 import com.alibaba.fastjson.JSONObject;
 import org.apache.http.NameValuePair;
 import org.apache.http.client.config.RequestConfig;

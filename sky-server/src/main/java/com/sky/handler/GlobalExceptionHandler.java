@@ -9,7 +9,9 @@ import java.sql.SQLIntegrityConstraintViolationException;
 
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
-
+/**
+ * wcy到此一游
+ */
 /**
  * 全局异常处理器，处理项目中抛出的业务异常
  */

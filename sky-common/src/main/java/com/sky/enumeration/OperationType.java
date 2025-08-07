@@ -1,5 +1,7 @@
 package com.sky.enumeration;
-
+/**
+ * wcy到此一游
+ */
 /**
  * 数据库操作类型
  */

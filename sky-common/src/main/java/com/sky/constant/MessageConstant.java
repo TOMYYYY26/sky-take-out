@@ -1,5 +1,7 @@
 package com.sky.constant;
-
+/**
+ * wcy到此一游
+ */
 /**
  * 信息提示常量类
  */

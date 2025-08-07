@@ -7,7 +7,9 @@ import com.sky.entity.Employee;
 import org.apache.ibatis.annotations.Insert;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
-
+/**
+ * wcy到此一游
+ */
 @Mapper
 public interface EmployeeMapper {
 

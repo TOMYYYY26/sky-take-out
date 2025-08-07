@@ -7,7 +7,9 @@ import lombok.NoArgsConstructor;
 
 import java.io.Serializable;
 import java.math.BigDecimal;
-
+/**
+ * wcy到此一游
+ */
 /**
  * 订单明细
  */
