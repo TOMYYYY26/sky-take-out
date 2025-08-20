@@ -61,4 +61,16 @@ public class SetmealController {
         setmealService.deleteBatch(ids);
         return Result.success();
     }
+
+    /**
+     * 根据id查询套餐
+     * @param id
+     * @return
+     */
+    @GetMapping("/{id}")
+    @ApiOperation("根据id查询套餐")
+    public Result<SetmealDTO> getById(@PathVariable Long id) {
+        SetmealDTO setmealDTO = setmealService.getById(id);
+        return Result.success(setmealDTO);
+    }
 }
